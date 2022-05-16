@@ -1,6 +1,6 @@
 --- 
-title: "HKU Single-cell Workshop (Modules 4.2 & 5)"
-author: "Yuanhua Lab: Mingze Gao, Rongting Huang, Xianjie Huang, Aaron Kwok, Zhuoxuan Li, Chen Qiao, Yuanhua Huang contact: yuanhua@hku.hk"
+title: "Human Genomic Epidemiology Asian Course 2022 (Module 2)"
+author: "Clara Tang contact: claratang@hku.hk"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
